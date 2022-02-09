@@ -7,7 +7,7 @@ df = pandas.read_csv('data.csv')
 
 null_data = df[df.isnull().any(axis=1)]
 
-# print(df)
+
 
 total_time = df['irradiance'].count()
 
