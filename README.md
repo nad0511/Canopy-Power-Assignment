@@ -18,3 +18,6 @@ The PV is first calculated by using the irradiance (PV = irradiance x 0.09)
 If the PV is larger than total load, PV is equal total load
 The genset is calculated by: genset = total load - PV
 Then the total amount of diesel can be calculated by using the intergral form of genset: diesel = Δt∑genset.
+
+# Graph
+![Figure_1](https://user-images.githubusercontent.com/59272955/153173404-a1ba9dab-79ab-4666-98df-d6f1ad2fe2ce.png)
